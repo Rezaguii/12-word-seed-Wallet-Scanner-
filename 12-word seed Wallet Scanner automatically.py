@@ -174,7 +174,7 @@ class WalletScannerThread(QThread):
 
     def scan_wallet(self, seed, etherscan_api_key):
         
-        """Scan a wallet and check balances."""
+        """Scan a wallet and check balances. """
         BTC_address = bip44_BTC_seed_to_address(seed) 
         BTC_balance = check_BTC_balance(BTC_address)
         self.display_balance('BTC', seed, BTC_address, BTC_balance)
