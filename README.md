@@ -99,12 +99,5 @@ Hey, if you’ve made it this far, you must be as excited about this project as 
 
 1.  **Show Some Love with a ⭐:** If you like the project, why not give it a star on GitHub? It’s like a virtual high-five that lets me know you’re interested in seeing more. Plus, it helps others discover the tool too!
     
-2.  **Keep the Lights On:** If you're feeling generous, you can support the project with a small (or big, I’m not picky) donation. It’ll help fuel more updates, improvements, and maybe even some extra caffeine to keep me coding all night. ☕💻
-    
-    -   **ETH:** 0x46ff790577AE7fe3988f16A252f767B166F0292c
-    -   **BTC:** bc1q2gmhh89fc8clmjuskgav9ed78mgu8qj0pz7sps
-    -   **LTC:** ltc1qc3tcn95q506kupwwf6fzupl93hk5m4uhytgdtk
-
-
 
 
