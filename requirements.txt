@@ -1,0 +1,9 @@
+mnemonic
+bip_utils
+requests
+python-dotenv
+colorama
+requests
+python-dotenv
+bip-utils
+PyQt5
