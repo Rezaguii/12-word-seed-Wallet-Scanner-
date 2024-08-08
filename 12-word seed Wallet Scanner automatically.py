@@ -135,7 +135,7 @@ def write_to_file(seed, BTC_address, BTC_balance, ETH_address, ETH_balance):
 
 def show_message_box(title, message):
     
-    """Show a message box with a given title and message."""
+    """Show a message box with a given title and message. """
     msg_box = QMessageBox()
     msg_box.setIcon(QMessageBox.Critical)
     msg_box.setWindowTitle(title)
