@@ -73,7 +73,7 @@ Install [Python 3.10](https://www.python.org/downloads/release/python-3100/)
 1.  **Get an Etherscan API Key**: Follow the [instructions here](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics) to obtain your API key.
 2.  **Set Up the API Key**: Go to the script’s directory and add your API key to the `Crackert.env` file.
 
-    #*In EnigmaCracker.env
+    #*In Crackert.env
     ETHERSCAN_API_KEY=your_api_key_here <--- Replace with your own API key*
 
 ## explanation
